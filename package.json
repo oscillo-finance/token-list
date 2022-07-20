@@ -1,0 +1,16 @@
+{
+  "name": "token-list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/oscillo-finance/token-list.git",
+  "license": "MIT",
+  "scripts": {
+    "clean": "rimraf images",
+    "build": "yarn clean && ts-node src/convertSVG.ts && ts-node src/compressPNG.ts"
+  },
+  "dependencies": {
+    "compress-images": "^2.0.5",
+    "convert-svg-to-png": "^0.6.4",
+    "pngquant-bin": "6.0.1"
+  }
+}

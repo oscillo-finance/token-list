@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "strict": false,
+    "rootDir": "./engine",
+    "outDir": "./build",
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "typeRoots": [
+      "./engine/types/injection",
+      "node_modules/@types"
+    ]
+  },
+  "include": [
+    "engine/**/*",
+    "engine/types/abi/*.json"
+  ],
+  "exclude": [
+    "node_modules",
+    "tests/**/*",
+    "scripts/**/*",
+    "samples/**/*"
+  ]
+}
