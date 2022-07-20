@@ -1,6 +1,7 @@
 .gradle
 .idea
 build
+src/raw/**/*.png
 
 node_modules
 coverage
