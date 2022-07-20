@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>token-busd</title>
+    <g id="token-busd" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <circle id="Oval" fill="#F0B90B" cx="18" cy="18" r="18"></circle>
+            <g id="binance-usd-busd-logo" transform="translate(5.000000, 5.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#FFFFFF" stroke-width="0.5">
+                <polygon id="Path" points="12.5 0 15.5970149 3.28869048 7.79850746 11.375 4.70149254 8.16369048"></polygon>
+                <polygon id="Path" points="17.2014925 4.875 20.2985075 8.16369048 7.79850746 21.125 4.70149254 17.9136905"></polygon>
+                <polygon id="Path" points="3.09701493 9.75 6.19402985 13.0386905 3.09701493 16.25 0 13.0386905"></polygon>
+                <polygon id="Path" points="21.9029851 9.75 25 13.0386905 12.5 26 9.40298507 22.7886905"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
