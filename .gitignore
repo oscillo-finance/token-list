@@ -1,0 +1,10 @@
+.gradle
+.idea
+build
+
+node_modules
+coverage
+coverage.json
+
+yarn.lock
+.env
